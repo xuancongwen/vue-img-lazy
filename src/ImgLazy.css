@@ -1,0 +1,3 @@
+img.img-lazy:not([src]) {
+    visibility: hidden;
+}

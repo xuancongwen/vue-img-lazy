@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ImgLazy renders this, and you changed it on purpose if it did not: html 1`] = `<img alt="super cool pictures" data-src="http://test.host/myimg.jpg" data-srcset="http://test.host/myimg.jpg http://test.host/myimg_big.jpg x2" data-sizes="1 2 3" width="100" height="100" class="img-lazy">`;
