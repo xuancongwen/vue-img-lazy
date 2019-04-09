@@ -5,6 +5,13 @@ A [Vue.JS](https://vuejs.org) component for lazy loading images as they come int
 
 ## Usage
 
+Install it by the usual means:
+```
+yarn add @volleytravel/vue-img-lazy
+# or
+npm install @volleytravel/vue-img-lazy
+```
+
 You use `<img-lazy>` anywhere you'd ordinarily use `<img>`, with the same attributes
 you'd ordinarily use, and let the component take care of the rest!
 
